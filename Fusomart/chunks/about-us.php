@@ -1,0 +1,7 @@
+<section class="fabout">
+		<div class="section white center">
+		      <div class="row container">
+		        <h2 class="header">ABOUT US</h2>
+		        <p class="grey-text text-darken-3 lighten-3">Fusomart is an online food ordering platform that connects you to your favorite local restaurants. We believe that ordering food should be simple, fast, and convenient, and that's why we created Fusomart. Our platform provides you with a wide range of delicious dishes from the finest restaurants, carefully crafted by expert chefs. Our goal is to bring your favorite meals to your doorsteps, with the convenience of online ordering. We have a vast menu that caters to a variety of tastes and dietary restrictions, and we use only the freshest and highest-quality ingredients. Our platform allows you to customize your order, schedule delivery or pickup, and track the status of your orders, all through our website. At Fusomart, we are dedicated to providing exceptional customer service and strive to make every experience with us a memorable one. Our goal is to exceed your expectations and make sure you are completely satisfied with your meals and experience. Thank you for choosing Fusomart. We look forward to serving you soon!</p>
+		      </div>
+	</section>
